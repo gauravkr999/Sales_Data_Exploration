@@ -1,4 +1,4 @@
-# Sales_data_exploration
+# Sales_Data_Exploration
 
 # 1. Show all customer records
 
